@@ -1,32 +1,33 @@
-Detyre_Seminari-Sistemet e Informacionit
+PROJEKT – SISTEMET E INFORMACIONIT
 Rast Studimi: Pluralsight
-Përgjigjet e pyetjeve
-1-10. Zgjedhja e një kursi në Pluralsight dhe përparësitë e trajnimeve online
-Kursi që do të zgjidhja në Pluralsight është Cyber Security Essentials, sepse më intereson siguria e informacionit dhe mënyra se si mbrohen të dhënat nga sulmet kibernetike.
-Trajnimet online më tërheqin sepse ofrojnë fleksibilitet, kursejnë kohë dhe mund të ndiqen nga çdo vend. Gjithashtu, mund t'i përsëris mësimet sa herë të kem nevojë.
-Kjo njohuri është e dobishme edhe për bizneset shqiptare, të cilat kanë nevojë të mbrojnë të dhënat e tyre dhe të klientëve.
-Kursi: https://www.pluralsight.com/courses/cyber-security-essentials
-1-11. Si mund ta rrisë Pluralsight biznesin dhe të ardhurat?
-Do t'i këshilloja drejtuesit e Pluralsight të zgjeroheshin në tregje të reja dhe të bashkëpunonin me universitete dhe kompani.
-Të ardhurat mund të rriten duke ofruar abonime për biznese, duke krijuar kurse të reja dhe duke investuar në marketing. Gjithashtu, ofrimi i kurseve në gjuhën shqipe do të ndihmonte në tërheqjen e përdoruesve nga Shqipëria dhe Kosova.
-1-12. Pse kompanitë interesohen për trajnimet online të punonjësve?
-Kompanitë interesohen për trajnimet online sepse punonjësit duhet të përditësojnë vazhdimisht aftësitë e tyre teknologjike.
-Duke përdorur Pluralsight, kompanitë kursejnë kohë dhe para, rrisin produktivitetin dhe përmirësojnë aftësitë e punonjësve.
-Për shembull, një bankë shqiptare mund të trajnojë punonjësit për sigurinë kibernetike, duke mbrojtur më mirë të dhënat e klientëve.
-1-13. Pse ekziston hendeku i aftësive teknologjike?
-Hendeku i aftësive teknologjike ekziston sepse teknologjia zhvillohet më shpejt sesa përshtatet sistemi arsimor.
-Punëdhënësit kanë nevojë për specialistë në programim, siguri kibernetike dhe inteligjencë artificiale, por shumë punonjës nuk kanë trajnimet dhe përvojën e nevojshme.
-Në Shqipëri, ky problem ndikon edhe te bizneset që kanë nevojë për punonjës të aftë për të përdorur dhe menaxhuar teknologjitë moderne.
-Pluralsight ndihmon në zvogëlimin e këtij hendeku përmes kurseve dhe trajnimeve online.
-1-14. Si mund të përfitojnë universitetet nga bashkëpunimi me Pluralsight?
-Universitetet mund të përfitojnë nga bashkëpunimi me Pluralsight duke u ofruar studentëve kurse praktike dhe njohuri teknologjike që kërkohen në tregun e punës.
-Disa universitete mund ta shohin si kërcënim, sepse platformat online mund të zvogëlojnë interesin për arsimin tradicional.
-Të tjera mund ta shohin si mundësi për të modernizuar programet mësimore dhe për të përgatitur studentë më të aftë.
-Sipas mendimit tim, Pluralsight duhet të shihet si plotësues i universitetit dhe jo si zëvendësues i tij.
-1-15. Çfarë kërcënimesh mund të përballet Pluralsight në të ardhmen dhe si mund të mbrohet nga konkurrenca?
-Pluralsight mund të përballet me konkurrencë nga kompani të mëdha si Microsoft, Google dhe Amazon, të cilat mund të krijojnë platforma të ngjashme me çmime më të ulëta.
-Kërcënime të tjera janë zhvillimi i inteligjencës artificiale, konkurrenca nga kurset falas dhe ndryshimi i vazhdueshëm i teknologjisë.
-Për t'u mbrojtur, Pluralsight duhet të përmirësojë cilësinë e kurseve, të ofrojë certifikime profesionale dhe të përdorë teknologji të reja për të përmirësuar përvojën e përdoruesve.
-Gjithashtu, mund të zgjerohet në tregje të reja dhe të krijojë bashkëpunime me kompani dhe universitete.
-Përfundim
-Nga ky rast studimi kuptojmë se teknologjia dhe trajnimet online kanë një rol të rëndësishëm në zhvillimin e bizneseve dhe përgatitjen profesionale të njerëzve. Pluralsight ofron mundësi për të fituar aftësi të reja dhe për të zvogëluar hendekun teknologjik. Për mendimin tim, kompanitë shqiptare dhe universitetet duhet të përfitojnë më shumë nga këto platforma, sepse investimi në njohuri dhe teknologji ndihmon në rritjen e konkurrueshmërisë dhe zhvillimin e tregut të punës.
+1. Përgjigjet e pyetjeve
+
+1-10. Go to http://pluralsight.com and search for a course you might be interested in taking. What is attractive to you about online versus traditional training?
+
+Kursi që do të zgjidhja është Cyber Security Essentials, sepse më intereson siguria e informacionit dhe mbrojtja e të dhënave nga sulmet kibernetike.
+
+Trajnimi online është tërheqës sepse ofron fleksibilitet në kohë dhe vend. Përdoruesit mund të mësojnë sipas ritmit të tyre dhe të përsërisin materialet sa herë të dëshirojnë. Ndërsa trajnimi tradicional ofron më shumë komunikim të drejtpërdrejtë. Sipas mendimit tim, trajnimi online është një mënyrë praktike dhe ekonomike për të zhvilluar aftësi të reja.
+
+1-11. What advice would you give executives at Pluralsight if they wanted to grow their business? How could they increase revenues?
+
+Pluralsight duhet të investojë në kurse të reja dhe në teknologjitë që kërkohen më shumë në treg. Gjithashtu, duhet të bashkëpunojë me universitete dhe kompani për të tërhequr më shumë klientë. Ofrimi i abonimeve për biznese dhe zgjerimi në tregje të reja, si Shqipëria dhe Kosova, mund të ndihmojnë në rritjen e të ardhurave.
+
+1-12. Why would corporate clients be interested in online technology training for their internal employees? How would they benefit from paying Pluralsight for training?
+
+Kompanitë interesohen për trajnimet online sepse duan të përmirësojnë aftësitë e punonjësve dhe të përshtaten me teknologjitë e reja. Duke përdorur Pluralsight, ato kursejnë kohë dhe para, rrisin produktivitetin dhe përmirësojnë cilësinë e punës. Për shembull, një bankë shqiptare mund të trajnojë punonjësit për sigurinë kibernetike dhe mbrojtjen e të dhënave të klientëve.
+
+1-13. Why is there a technology skills gap? Why do employers have the need for highly skilled workers, and why do too few workers have these skills?
+
+Hendeku i aftësive teknologjike ekziston sepse teknologjia zhvillohet shumë shpejt dhe arsimi nuk arrin gjithmonë të përshtatet me këto ndryshime. Punëdhënësit kanë nevojë për specialistë në programim, siguri kibernetike dhe inteligjencë artificiale. Megjithatë, shumë punonjës nuk kanë trajnimet dhe përvojën e nevojshme. Platformat si Pluralsight ndihmojnë në përmirësimin e këtyre aftësive.
+
+1-14. How might a traditional university benefit from a partnership with Pluralsight? Why might some universities see such a partnership as a threat to their existence, while others might see it as a great opportunity?
+
+Universitetet mund të përfitojnë nga bashkëpunimi me Pluralsight duke u ofruar studentëve kurse praktike dhe njohuri teknologjike moderne. Disa universitete mund ta shohin këtë bashkëpunim si kërcënim, sepse trajnimet online mund të ndikojnë në interesin për arsimin tradicional. Të tjera mund ta shohin si mundësi për të përmirësuar programet mësimore dhe për t'i përgatitur studentët më mirë për tregun e punës.
+
+1-15. Suppose you were considering buying stock in Pluralsight. What types of threats might Pluralsight face in the future? Could a large tech company mimic its business model and threaten its profitability? How could Pluralsight defend against this type of competition?
+
+Pluralsight mund të përballet me konkurrencë nga kompani të mëdha si Microsoft, Google dhe Amazon, të cilat mund të ofrojnë trajnime të ngjashme me çmime më të ulëta. Kërcënime të tjera janë zhvillimi i inteligjencës artificiale dhe rritja e numrit të platformave me kurse falas. Për t'u mbrojtur, Pluralsight duhet të përmirësojë cilësinë e kurseve, të ofrojë certifikime profesionale dhe të investojë në teknologji të reja.
+
+2. Përfundim
+
+Nga ky rast studimi kuptojmë se teknologjia dhe trajnimet online kanë një rol të rëndësishëm në zhvillimin e bizneseve dhe përgatitjen profesionale. Pluralsight ofron mundësi për të fituar aftësi të reja dhe për t'u përshtatur me kërkesat e tregut të punës. Gjithashtu, kuptojmë se kompanitë dhe universitetet duhet të investojnë vazhdimisht në teknologji dhe në zhvillimin e aftësive të punonjësve dhe studentëve.
